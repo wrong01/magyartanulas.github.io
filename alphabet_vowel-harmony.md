@@ -6,8 +6,8 @@ title: The Alphabet & Vowel Harmony
 ## The Alphabet
 ---
 
-The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants
-the Hungarian Alphabet is a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
+The best place to start with learning any language is the alphabet. With 14 vowels and 30 consonants,
+the Hungarian alphabet contains a total of 44 letters. Hungarian is a phonetic language so once you master the alphabet, you'll be able to speak
 every word that you can read first time every time!
 
 ```
